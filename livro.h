@@ -28,7 +28,7 @@ public:
 
     std::string getFechaPublicacao() const;
 
-    void setFechaPulicacao(std::string fechaPublicacao);
+    void setFechaPublicacao(std::string fechaPublicacao);
 
     void setFechaPublicacao(const std::string &fechaPublicacao);
 
