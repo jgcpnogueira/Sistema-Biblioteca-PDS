@@ -1,6 +1,6 @@
 # Sistema-Biblioteca-PDS
 
-#. Apresentação do Problema: Comece com uma breve introdução ao problema que o sistema se
+1. Apresentação do Problema: Comece com uma breve introdução ao problema que o sistema se
 propõe a resolver. Explique o contexto e a importância do projeto.
 2. Visão Geral da Solução: Forneça uma visão geral da solução proposta, destacando a estrutura geral
 do programa e seu funcionamento básico. Isso ajuda os leitores a terem uma compreensão inicial do
