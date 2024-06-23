@@ -18,7 +18,7 @@ public:
     void setQuantidadeDeLivros(int quantidadeDeLivros);
 
 public:
-    Almacen(Livro* livros, int quantidadeDeLivros);
+    Armazem(Livro* livros, int quantidadeDeLivros);
 
 };
 
